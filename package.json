@@ -1,0 +1,27 @@
+{
+  "name": "fullstack_pg1",
+  "version": "1.0.0",
+  "description": "template for reactjs and expressjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudHu606/FullStack_PG1.git"
+  },
+  "author": "Cloud Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CloudHu606/FullStack_PG1/issues"
+  },
+  "homepage": "https://github.com/CloudHu606/FullStack_PG1#readme",
+  "dependencies": {
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
